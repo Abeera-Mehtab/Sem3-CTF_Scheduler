@@ -1,0 +1,8 @@
+ BitHacker,  Cybrary, 31/12/24 09:00, Completed,  Cybrary
+ PentestLab,  Hackaday, 31/12/24 09:00, Completed,  Hackaday
+ RedTeamer,  DEFCON, 31/12/24 09:00, Completed,  RedTeamer
+ BlueTeamer,  BlackHatter, 31/12/24 09:00, Completed,  BlackHatter
+ HydraKnights,  Cryptovenger, 31/12/24 09:00, Completed,  HydraKnights
+ OverTheWire,  WASP, 31/12/24 09:00, Completed,  WASP
+ SaintHacker,  PVNgineer, 31/12/24 09:00, Completed,  SaintHacker
+ NullByte,  ForenScientists, 31/12/24 09:00, Completed,  NullByte

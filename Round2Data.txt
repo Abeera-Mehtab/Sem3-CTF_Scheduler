@@ -1,0 +1,4 @@
+ Cybrary,  Hackaday, 31/12/24 11:00, Completed,  Hackaday
+ RedTeamer,  BlackHatter, 31/12/24 11:00, Completed,  RedTeamer
+ HydraKnights,  WASP, 31/12/24 11:00, Completed,  HydraKnights
+ SaintHacker,  NullByte, 31/12/24 11:00, Completed,  NullByte

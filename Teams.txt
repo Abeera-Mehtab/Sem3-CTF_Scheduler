@@ -1,0 +1,16 @@
+1, BitHacker, Ahmed
+2, PentestLab, Ali - Hassan
+3, RedTeamer, Hussein
+4, BlueTeamer, Mohammed - Omar
+5, HydraKnights, Yusuf
+6, OverTheWire, Abdullah - Ibrahim
+7, SaintHacker, Ismail
+8, NullByte, Aisha - Fatima
+9, Cybrary, Mariam
+10, Hackaday, Zainab
+11, DEFCON, Khadija
+12, BlackHatter, Ahmed - Ali
+13, Cryptovenger, Hassan
+14, WASP, Hussein - Mohammed
+15, PVNgineer, Omar
+16, ForenScientists, Yusuf - Abdullah
